@@ -11,7 +11,7 @@
 <style scoped>
 
 #app {
-  margin-top: 20px;
+  margin-top: 25px;
 }
 
 #nav {
