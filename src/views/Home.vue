@@ -9,7 +9,7 @@
     </div>
     
     <div class="pure-u-20-24">
-      <h1>Test Your JavaScript Knowledge</h1>
+      <h1> JavaScript Knowledge Quiz</h1>
 
       <!-- 
         This is the main form populated from the API and used to gather user's responses.
